@@ -4112,11 +4112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\EFTask1\\EFTask1\\EFTask1.csproj",
+      "projectUniqueName": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\Task01\\EFTask1\\EFTask1\\EFTask1.csproj",
       "projectName": "EFTask1",
-      "projectPath": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\EFTask1\\EFTask1\\EFTask1.csproj",
+      "projectPath": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\Task01\\EFTask1\\EFTask1\\EFTask1.csproj",
       "packagesPath": "C:\\Users\\Sherif\\.nuget\\packages\\",
-      "outputPath": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\EFTask1\\EFTask1\\obj\\",
+      "outputPath": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\Task01\\EFTask1\\EFTask1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

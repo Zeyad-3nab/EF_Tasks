@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\EFTask1\\",
+  "WorkspaceRootPath": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\Task01\\EFTask1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\EFTask1\\EFTask1\\Migrations\\20240507204943_TaskModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFTask1\\Migrations\\20240507204943_TaskModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7E440D-4A50-4BA8-B8CA-D239AF99F835}|EFTask1\\EFTask1.csproj|d:\\back end .net eraasoft\\3- entity framework\\week01\\d01\\task\\eftask1\\eftask1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C7E440D-4A50-4BA8-B8CA-D239AF99F835}|EFTask1\\EFTask1.csproj|d:\\back end .net eraasoft\\3- entity framework\\week01\\d01\\task\\task01\\eftask1\\eftask1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C7E440D-4A50-4BA8-B8CA-D239AF99F835}|EFTask1\\EFTask1.csproj|solutionrelative:eftask1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C7E440D-4A50-4BA8-B8CA-D239AF99F835}|EFTask1\\EFTask1.csproj|d:\\back end .net eraasoft\\3- entity framework\\week01\\d01\\task\\eftask1\\eftask1\\models\\taask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C7E440D-4A50-4BA8-B8CA-D239AF99F835}|EFTask1\\EFTask1.csproj|d:\\back end .net eraasoft\\3- entity framework\\week01\\d01\\task\\task01\\eftask1\\eftask1\\models\\taask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C7E440D-4A50-4BA8-B8CA-D239AF99F835}|EFTask1\\EFTask1.csproj|solutionrelative:eftask1\\models\\taask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C7E440D-4A50-4BA8-B8CA-D239AF99F835}|EFTask1\\EFTask1.csproj|d:\\back end .net eraasoft\\3- entity framework\\week01\\d01\\task\\eftask1\\eftask1\\migrations\\20240507202527_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7E440D-4A50-4BA8-B8CA-D239AF99F835}|EFTask1\\EFTask1.csproj|solutionrelative:eftask1\\migrations\\20240507202527_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C7E440D-4A50-4BA8-B8CA-D239AF99F835}|EFTask1\\EFTask1.csproj|d:\\back end .net eraasoft\\3- entity framework\\week01\\d01\\task\\task01\\eftask1\\eftask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E440D-4A50-4BA8-B8CA-D239AF99F835}|EFTask1\\EFTask1.csproj|solutionrelative:eftask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C7E440D-4A50-4BA8-B8CA-D239AF99F835}|EFTask1\\EFTask1.csproj|d:\\back end .net eraasoft\\3- entity framework\\week01\\d01\\task\\eftask1\\eftask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7E440D-4A50-4BA8-B8CA-D239AF99F835}|EFTask1\\EFTask1.csproj|solutionrelative:eftask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C7E440D-4A50-4BA8-B8CA-D239AF99F835}|EFTask1\\EFTask1.csproj|d:\\back end .net eraasoft\\3- entity framework\\week01\\d01\\task\\task01\\eftask1\\eftask1\\migrations\\20240507204943_taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E440D-4A50-4BA8-B8CA-D239AF99F835}|EFTask1\\EFTask1.csproj|solutionrelative:eftask1\\migrations\\20240507204943_taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7E440D-4A50-4BA8-B8CA-D239AF99F835}|EFTask1\\EFTask1.csproj|d:\\back end .net eraasoft\\3- entity framework\\week01\\d01\\task\\task01\\eftask1\\eftask1\\migrations\\20240507202527_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7E440D-4A50-4BA8-B8CA-D239AF99F835}|EFTask1\\EFTask1.csproj|solutionrelative:eftask1\\migrations\\20240507202527_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,41 +30,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "20240507204943_TaskModel.cs",
-              "DocumentMoniker": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\EFTask1\\EFTask1\\Migrations\\20240507204943_TaskModel.cs",
+              "DocumentMoniker": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\Task01\\EFTask1\\EFTask1\\Migrations\\20240507204943_TaskModel.cs",
               "RelativeDocumentMoniker": "EFTask1\\Migrations\\20240507204943_TaskModel.cs",
-              "ToolTip": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\EFTask1\\EFTask1\\Migrations\\20240507204943_TaskModel.cs",
+              "ToolTip": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\Task01\\EFTask1\\EFTask1\\Migrations\\20240507204943_TaskModel.cs",
               "RelativeToolTip": "EFTask1\\Migrations\\20240507204943_TaskModel.cs",
               "ViewState": "AQIAADEAAADAzMzMzMwiwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T20:49:43.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T20:49:43.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "20240507202527_InitialDB.cs",
-              "DocumentMoniker": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\EFTask1\\EFTask1\\Migrations\\20240507202527_InitialDB.cs",
+              "DocumentMoniker": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\Task01\\EFTask1\\EFTask1\\Migrations\\20240507202527_InitialDB.cs",
               "RelativeDocumentMoniker": "EFTask1\\Migrations\\20240507202527_InitialDB.cs",
-              "ToolTip": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\EFTask1\\EFTask1\\Migrations\\20240507202527_InitialDB.cs",
+              "ToolTip": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\Task01\\EFTask1\\EFTask1\\Migrations\\20240507202527_InitialDB.cs",
               "RelativeToolTip": "EFTask1\\Migrations\\20240507202527_InitialDB.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T20:25:27.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T20:25:27.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Taask.cs",
-              "DocumentMoniker": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\EFTask1\\EFTask1\\Models\\Taask.cs",
+              "DocumentMoniker": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\Task01\\EFTask1\\EFTask1\\Models\\Taask.cs",
               "RelativeDocumentMoniker": "EFTask1\\Models\\Taask.cs",
-              "ToolTip": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\EFTask1\\EFTask1\\Models\\Taask.cs",
+              "ToolTip": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\Task01\\EFTask1\\EFTask1\\Models\\Taask.cs",
               "RelativeToolTip": "EFTask1\\Models\\Taask.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,29 +71,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\EFTask1\\EFTask1\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\Task01\\EFTask1\\EFTask1\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "EFTask1\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\EFTask1\\EFTask1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\Task01\\EFTask1\\EFTask1\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "EFTask1\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T19:58:55.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\EFTask1\\EFTask1\\Program.cs",
+              "DocumentMoniker": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\Task01\\EFTask1\\EFTask1\\Program.cs",
               "RelativeDocumentMoniker": "EFTask1\\Program.cs",
-              "ToolTip": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\EFTask1\\EFTask1\\Program.cs",
+              "ToolTip": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\Task01\\EFTask1\\EFTask1\\Program.cs",
               "RelativeToolTip": "EFTask1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T19:42:14.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T19:42:14.791Z"
             }
           ]
         }

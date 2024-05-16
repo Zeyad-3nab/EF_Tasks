@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SJ0FCtClawMeXc/Kgn5/T4e4+RD6lmZJ8k7oyfbTGLkn4PTEZzhvSKpFhZmHnyTvFX8ZaBoGAvops/AY6NyyPw==",
+  "dgSpecHash": "XCa/BS1F5DeG6LRZpAMO55SRE2FR6cZgwkY/Ac57K84A6ZyEz4quO8deUBYXklAea8Sq48HNv9wlJ2J35KChXg==",
   "success": true,
-  "projectFilePath": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\EFTask1\\EFTask1\\EFTask1.csproj",
+  "projectFilePath": "D:\\Back End .net EraaSoft\\3- Entity FrameWork\\Week01\\D01\\task\\Task01\\EFTask1\\EFTask1\\EFTask1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sherif\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Sherif\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
