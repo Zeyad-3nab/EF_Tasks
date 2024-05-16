@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>StudentSystem</id>
+    <version>1.0.0</version>
+    <authors>StudentSystem</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="8.0.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Back End .net EraaSoft\3- Entity FrameWork\Week02\D01\Task\StudentSystem\StudentSystem\bin\Debug\net8.0\StudentSystem.runtimeconfig.json" target="lib\net8.0\StudentSystem.runtimeconfig.json" />
+    <file src="D:\Back End .net EraaSoft\3- Entity FrameWork\Week02\D01\Task\StudentSystem\StudentSystem\bin\Debug\net8.0\StudentSystem.dll" target="lib\net8.0\StudentSystem.dll" />
+  </files>
+</package>
